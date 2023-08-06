@@ -1,4 +1,4 @@
-Hi! I'm @verzajr and just started with studying sw development as a part-time effort along my full-time job as engineer.
+Hi! I'm @verzajr and just started studying sw development as a part-time effort along my full-time job as engineer.
 
 I'm very interested on all sorts of electrification and software development. 
 
